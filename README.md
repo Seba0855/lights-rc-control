@@ -4,7 +4,7 @@
 <br>
 
 ## About
-Actually that's a pretty simple project that I made to control my outdoor lights when it's dark outside.
+A pretty simple project that I made to control my outdoor lights when it's dark outside.
 
 
 ## How it works
