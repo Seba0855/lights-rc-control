@@ -116,28 +116,28 @@ void loop() {
 
     int currentIteration = 0;
     delay(5);
-    if (terracePowered == false && currentIteration != 1 && getID == 2137) {
+    if (terracePowered == false && currentIteration != 1 && getID == idTerrace) {
       lightsON(getID, idTerrace, getBitLength, 12, terracePowered, terrace);
       terracePowered = true;
       currentIteration = 1;
       delay(200);
     }
 
-    if (terracePowered == true && currentIteration != 1 && getID == 2137) {
+    if (terracePowered == true && currentIteration != 1 && getID == idTerrace) {
       lightsOFF(getID, idTerrace, getBitLength, 12, terracePowered, terrace);
       terracePowered = false;
       currentIteration = 1;
       delay(200);
     }
     currentIteration = 0;
-    if (shedPowered == false && currentIteration != 1 && getID == 2138) {
+    if (shedPowered == false && currentIteration != 1 && getID == idShed) {
       lightsON(getID, idShed, getBitLength, 12, shedPowered, shed);
       shedPowered = true;
       currentIteration = 1;
       delay(200);
     }
 
-    if (shedPowered == true && currentIteration != 1 && getID == 2138) {
+    if (shedPowered == true && currentIteration != 1 && getID == idShed) {
       lightsOFF(getID, idShed, getBitLength, 12, shedPowered, shed);
       shedPowered = false;
       currentIteration = 1;
