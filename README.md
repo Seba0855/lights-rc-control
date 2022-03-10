@@ -24,7 +24,7 @@ There are two light rails on my yard (under a shed and on a terrace) which I can
 * <a href='https://botland.com.pl/arduino-seria-nano-oryginalne-plytki/12960-arduino-nano-a000005-7630049200173.html'>Arduino Nano</a>
 * <a href='https://botland.com.pl/moduly-przekaznikow/14266-modul-przekaznikow-iduino-2-kanaly-z-optoizolacja-styki-10a250vac-cewka-5v-5903351242332.html'>Double channel relay module</a>
 * Outdoor PIR motion sensor
-* Some voltage regulators, and breakers 
+* Some voltage regulators and breakers 
 
 ---
 
