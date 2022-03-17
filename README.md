@@ -3,8 +3,8 @@
 
 <br>
 
-## About
-A pretty simple project that I made to control my outdoor lights when it's dark outside.
+## Summary
+A simple project that I made to control my outdoor lights when it's dark outside.
 
 
 ## How it works
@@ -28,5 +28,5 @@ There are two light rails on my yard (under a shed and on a terrace) which I can
 
 ---
 
-### This code looks awful, couldn't it be simplified?
-Absoultely it could be simplified and I probably know how, but it was one of my first practical projects on Arduino (I made it in November 2020, but uploaded on GitHub in 2022) and as long as it just works, I'll just keep it as is. For now, I have better work to do rather than improving this little project. :) 
+#### About
+This was one of my first practical projects on Arduino that I actually use on a daily basis. I made it in November 2020, but uploaded on GitHub in 2022. 
